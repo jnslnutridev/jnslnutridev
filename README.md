@@ -11,7 +11,6 @@ Sou um profissional que acredita na intersecção entre saúde e tecnologia. Atu
 ---
 
 ## 🛠️ Ferramentas & Tecnologias
-## 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -19,9 +18,7 @@ Sou um profissional que acredita na intersecção entre saúde e tecnologia. Atu
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
 
-
-![Design](https://img.shields.io/badge/Design-Figma%2C%20Photoshop%2C%20Illustrator-orange)
-![Tech](https://img.shields.io/badge/Tech-Python%2C%20JS%2C%20HTML%2FCSS-blue)
+![Design](https://img.shields.io/badge/Design-Figma%2C%20Canva%2C%20-orange)
 ![Nutrition](https://img.shields.io/badge/Nutrition-Clinical%2C%20Audit%2C%20Marketing-green)
 
 ---
