@@ -108,21 +108,22 @@ Projetos de análise de dados durante estágios em **hospital** e **ILPI**, incl
 
 ---
 
+<!--
 ## 📈 Estatísticas GitHub
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=a8b2d8"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jnslnutridev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnslnutridev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=a8b2d8"/>
 
 </div>
+-->
 
 ---
 
 ## 🎨 Além do Código
 
-Além do desenvolvimento, atuo em **Design Visual** — criação de identidade visual, logos e peças para redes sociais. Acredito que comunicação visual clara é tão importante quanto código limpo.
-
+Além do desenvolvimento, atuo em **Design Visual** — criação de identidade visual, logos e posts para redes sociais.
 ---
 
 <!-- 
@@ -141,15 +142,15 @@ Além do desenvolvimento, atuo em **Design Visual** — criação de identidade 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
-
-</div>
-
 ---
 
 <img width="1584" height="396" alt="banner_4" src="https://github.com/user-attachments/assets/2fa5ac23-57b4-4fc1-acd3-2064b8453da0" />
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
+
+</div>
 
 <!--
 **jnslnutridev/jnslnutridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
