@@ -1,17 +1,14 @@
 <div align="center">
 
-<!-- Banner dinâmico -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Ol%C3%A1%2C%20eu%20sou%20Jhonny%20%F0%9F%91%8B&fontSize=36&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Nutricionista%20%C2%B7%20Developer%20%C2%B7%20Designer&descAlignY=60&descSize=18&descColor=a8b2d8"/>
+<!-- Banner Gif -->
+![gif](https://github.com/user-attachments/assets/04814a29-5b6c-46e4-8f29-1d9b4413a90f)
 
 </div>
 
 ---
-
-<div align="center">
-
 ### 🧬 Sobre mim
-
-</div>
+---
+# Hello World, Sou Jhonny S. Leonardo
 
 ### Nutricionista, com interesse em Design e Desenvolvimento.
 
@@ -27,7 +24,7 @@ perfil = {
 }
 ```
 
-<div align="center">
+<div>
 
 Meu foco atual está direcionado ao aprimoramento de minhas habilidades em **desenvolvimento de software aplicado à área da saúde**, com ênfase em sistemas que otimizem processos clínicos, análises de dados epidemiológicos e nutricionais. Adicionalmente, busco desenvolver soluções de automação que visem a otimização do tempo, reduzindo o trabalho manual. Outro objetivo é aprimorar minhas competências em **identidade visual**, desde a criação de logotipos até o desenvolvimento de posts para redes sociais.
 
@@ -79,7 +76,7 @@ Projetos de análise de dados durante estágios em **hospital** e **ILPI**, incl
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
+<div>
 
 **Linguagens**
 
@@ -106,8 +103,6 @@ Projetos de análise de dados durante estágios em **hospital** e **ILPI**, incl
 
 </div>
 
----
-
 <!--
 ## 📈 Estatísticas GitHub
 
@@ -120,7 +115,6 @@ Projetos de análise de dados durante estágios em **hospital** e **ILPI**, incl
 -->
 
 ---
-
 ## 🎨 Além do Código
 
 Além do desenvolvimento, atuo em **Design Visual** — criação de identidade visual, logos e posts para redes sociais.
@@ -143,12 +137,11 @@ Além do desenvolvimento, atuo em **Design Visual** — criação de identidade 
 <div align="center">
 
 ---
-
-<img width="1584" height="396" alt="banner_4" src="https://github.com/user-attachments/assets/2fa5ac23-57b4-4fc1-acd3-2064b8453da0" />
+<img width="1584" height="396" alt="footer_banner_kit" src="https://github.com/user-attachments/assets/ebf0d3dc-2ad2-4734-a97d-d3ebdda0904e" />
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/> -->
 
 </div>
 
